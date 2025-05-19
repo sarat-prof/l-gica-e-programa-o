@@ -1,0 +1,27 @@
+index.html
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Meu Primeiro Site</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Bem-vindo ao Meu Site!</h1>
+    </header>
+    
+    <main>
+        <section>
+            <p>Este é o meu primeiro site criado com o Visual Studio Code.</p>
+        </section>
+    </main>
+
+    <footer>
+        <p>2025 - Meu Site</p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
